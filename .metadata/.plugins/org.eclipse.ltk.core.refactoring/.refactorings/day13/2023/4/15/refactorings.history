@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;poly.inheri.MainClass&apos; to &apos;MainClass1&apos;&#x0D;&#x0A;- Original project: &apos;day13&apos;&#x0D;&#x0A;- Original element: &apos;poly.inheri.MainClass&apos;&#x0D;&#x0A;- Renamed element: &apos;poly.inheri.MainClass1&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;MainClass&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;poly.inheri{MainClass.java[MainClass" matchStrategy="1" name="MainClass1" qualified="false" references="true" similarDeclarations="false" stamp="1681347656617" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,5 @@
+package inheritance;
+
+public class Salaryman {
+	public int salary;
+}

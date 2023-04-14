@@ -1,0 +1,23 @@
+package equals.array;
+
+import java.util.Arrays;
+
+public class ArrayEqualsTest {
+
+	public static void main(String[] args) {
+		// 배열은 참조형 변수이기 때문에, 단순 대입시 문제가 발생합니다.
+		int[] intArray1 = {1, 2, 3, 4, 5};
+		System.out.println("배열주소 : "  + intArray1);
+		System.out.println(intArray1.toString());
+		System.out.println(Arrays.toString(intArray1));
+		System.out.println("-----------------------");
+		
+		// 새로 생성하지 않고, intArray1을 대입받은 intArray2
+		int[] intArray2 = intArray1;
+		System.out.println(intArray1.toString());
+		System.out.println(intArray2.toString());
+		System.out.println("배열2 주소 : " + intArray2);
+
+	}
+
+}

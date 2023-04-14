@@ -1,0 +1,8 @@
+package poly.casting;
+
+public class Child extends Parent {
+	@Override
+	public void method2() {
+		System.out.println("자식쪽에서 재정의한 2번 매서드");
+	}
+}

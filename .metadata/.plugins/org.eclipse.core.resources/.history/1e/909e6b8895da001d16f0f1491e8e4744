@@ -1,0 +1,6 @@
+package poly.static_.var;
+
+public class Asean {
+	private int attendanceScore; // 출결
+	private int finalTermScore ; // 기말
+}

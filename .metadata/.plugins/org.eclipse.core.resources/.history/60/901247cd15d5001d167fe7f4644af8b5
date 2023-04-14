@@ -1,0 +1,6 @@
+package inheritance;
+
+public class Army {
+	public String rank;
+	public int salary;
+}

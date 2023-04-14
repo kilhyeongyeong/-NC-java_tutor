@@ -1,0 +1,11 @@
+package poly.inherit;
+
+public class Monster {
+	
+	private String name;
+	private int	   hp  ;
+	private int    atk ;
+	private int    def ;
+	private int    exp ;
+
+}

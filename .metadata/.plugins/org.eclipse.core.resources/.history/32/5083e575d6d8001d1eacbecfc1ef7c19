@@ -1,0 +1,16 @@
+package poly.noInherit;
+
+public class MainClass2 {
+
+	public static void main(String[] args) {
+		
+		// Warrior intance
+		Warrior wr2 = new Warrior("vvv");
+		
+		// Rabbit intance
+		Rabbit r1 = new Rabbit();
+		Rabbit r2 = new Rabbit();
+
+	}
+
+}

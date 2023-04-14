@@ -1,0 +1,15 @@
+package poly.instanceof_;
+
+public class Cup {
+	
+	private String itemName   ; //상품명
+	private String companyName; // 가격
+	private int    price	  ; // 제조사
+	
+	public Cup(String itemName, int price) {
+		this.itemName = itemName;
+		this.price	  = price   ;
+		this.companyName = "컵회사";
+	}
+
+}

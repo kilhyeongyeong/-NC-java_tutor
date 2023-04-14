@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 4 elements to &apos;day13/src/poly.inheri&apos;&#x0D;&#x0A;- Original project: &apos;day12&apos;&#x0D;&#x0A;- Destination element: &apos;day13/src/poly.inheri&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     poly.inherit.Monster.java&#x0D;&#x0A;     poly.inherit.Rabbit.java&#x0D;&#x0A;     poly.inherit.Rat.java&#x0D;&#x0A;     poly.inherit.Warrior.java" description="Copy compilation units" destination="=day13/src&lt;poly.inheri" element1="/src&lt;poly.inherit{Monster.java" element2="/src&lt;poly.inherit{Rabbit.java" element3="/src&lt;poly.inherit{Rat.java" element4="/src&lt;poly.inherit{Warrior.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1681347226894" units="4" version="1.0"/>
+</session>

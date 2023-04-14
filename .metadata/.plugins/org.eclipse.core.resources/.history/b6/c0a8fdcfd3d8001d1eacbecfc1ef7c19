@@ -1,0 +1,19 @@
+package poly.noInherit;
+
+public class Rabbit {
+	private int hp ; // 체력
+	private int def; // 방어력
+	private int atk; // 공격력
+	
+	// 초기화 상수
+	public static final int INIT_HP  = 20;
+	public static final int INIT_ATK =  3;
+	public static final int INIT_DEF =  1;
+	
+	// 생성자 - 변수 초기화
+	public Rabbit() {
+		hp  = INIT_HP ;
+		def = INIT_DEF;
+		atk = INIT_ATK;
+	}
+}

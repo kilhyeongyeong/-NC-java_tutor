@@ -1,0 +1,25 @@
+package poly.inheri;
+
+public class MainClass1 {
+
+	public static void main(String[] args) {
+		
+		// 전사
+		Warrior w1 = new Warrior("vvv");
+		w1.showStatus();
+		
+		// 토끼
+		Monster r1 = new Rabbit();
+		
+		w1.hunt(r1);
+		w1.showStatus();
+		
+		// 쥐
+		Monster r2 = new Rat();
+		w1.hunt(r2);
+		w1.hunt(r2);
+		w1.showStatus();
+
+	}
+
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="day06.MethodExample1"/>
+    <fullyQualifiedTypeName name="day07.MethdExample3"/>
+    <fullyQualifiedTypeName name="day07.Human"/>
+    <fullyQualifiedTypeName name="fruit.AppleMango"/>
+    <fullyQualifiedTypeName name="fruit.Strawberry"/>
+    <fullyQualifiedTypeName name="hello.hi.Hi"/>
+    <fullyQualifiedTypeName name="hello.bye.Bye"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="strequals.User"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
+    <fullyQualifiedTypeName name="inheritance.Salaryman"/>
+    <fullyQualifiedTypeName name="exampe.super_.SupersonicAirplane"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+</qualifiedTypeNameHistroy>
