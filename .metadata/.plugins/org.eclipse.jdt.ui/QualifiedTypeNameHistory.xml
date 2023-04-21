@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="day06.MethodExample1"/>
     <fullyQualifiedTypeName name="day07.MethdExample3"/>
     <fullyQualifiedTypeName name="day07.Human"/>
@@ -8,11 +7,26 @@
     <fullyQualifiedTypeName name="fruit.Strawberry"/>
     <fullyQualifiedTypeName name="hello.hi.Hi"/>
     <fullyQualifiedTypeName name="hello.bye.Bye"/>
-    <fullyQualifiedTypeName name="java.util.Arrays"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="strequals.User"/>
-    <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
     <fullyQualifiedTypeName name="inheritance.Salaryman"/>
     <fullyQualifiedTypeName name="exampe.super_.SupersonicAirplane"/>
+    <fullyQualifiedTypeName name="poly.static_.var.Asean"/>
+    <fullyQualifiedTypeName name="abstract_.noabs.PopupStore"/>
+    <fullyQualifiedTypeName name="abstract_.noabs.Store"/>
     <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.NumberFormatException"/>
+    <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="exception.throws_.ThrowsExample2"/>
+    <fullyQualifiedTypeName name="exception.custom.BalanceInsufficientException"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="api.util.date.DateExample"/>
+    <fullyQualifiedTypeName name="java.util.Calendar"/>
+    <fullyQualifiedTypeName name="javax.naming.ReferralException"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
 </qualifiedTypeNameHistroy>
